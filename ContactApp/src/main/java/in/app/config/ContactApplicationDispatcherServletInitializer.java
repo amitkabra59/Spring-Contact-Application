@@ -1,4 +1,4 @@
-package config;
+package in.app.config;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
